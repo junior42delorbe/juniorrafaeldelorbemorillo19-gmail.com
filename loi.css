@@ -1,0 +1,212 @@
+
+
+#slider{height: 110px;
+    width: 100px;
+    left: 460px;
+    margin-bottom: 360px;
+    display: inline-block;
+    position: absolute;
+    bottom: 180px;
+    object-fit: cover;
+/*   filter: grayscale(50%);
+      filter: hue-rotate(20deg); */
+}
+
+.n{ position: absolute;;
+padding-left: 1090px;
+padding-bottom: 30px;
+display: inline-block;
+border-color: blue;
+}
+
+
+
+body{  font-family: "Oswald", sans-serif;
+background-color: #d3d3d3;
+width: 90px;
+height: auto;}
+
+.informacion{margin-top: 20px;
+    margin-left: 560px;
+position: absolute;
+display: inline-block;}
+    
+  
+
+    
+    .dalto img{height:190px ;
+    width: 190px;
+    position: absolute;
+border-radius: 130px;
+margin-top: 160px;
+margin-left: 40px;
+display: inline-block;
+object-fit: cover;}
+
+.alejo img{height:190px ;
+    width: 190px;
+    position:absolute ;
+border-radius: 130px;
+margin-left: 225px;
+margin-top: 160px;
+display: inline-block;
+object-fit: cover;
+}
+
+.bob img{height:190px ;
+    width: 190px;
+    margin-left: 520px;
+    position: absolute;
+border-radius: 130px;
+margin-top: 120px;
+display: inline-block;
+object-fit: cover;}
+
+.alex img{height:190px ;
+    width: 190px;
+    margin-left:670px;
+    margin-top: 110px;
+    position: absolute;
+border-radius: 130px;
+display: inline-block;
+object-fit: cover;}
+
+.humberto img{height:190px ;
+    width: 190px;
+    margin-left:925px;
+    margin-top:90px;
+    position: absolute;
+border-radius: 130px;
+display: inline-block;
+object-fit: cover;
+}
+#f{display: inline-block;
+    position: relative;
+    
+}
+.alejoapoe{left: 810px;
+top: 300px;
+}
+.humber{margin-left:970px ;
+bottom: 230px;
+position: absolute;
+}
+.spon{left: 566px;
+    top: 329px;
+}
+.allejo{left: 340px;
+    top: 350px;
+}
+.hola{left: 90px;
+    top: 370px;
+}
+
+
+
+#slider{margin-left: 740px;
+height: 90px;
+width: 90px;}
+
+.arduino{margin-left: 490px;
+    margin-top: 33px;
+width: 190px;
+border-radius: 5px;
+height: 190px;
+display: inline-block;
+position: absolute;}
+.fiona{margin-left: 90px;
+    margin-top: 33px;
+    width: 190px;
+    height: 190px;
+    border-radius: 5px;
+    display: inline-block;
+position: absolute;}
+
+#video{
+    filter: brightness(0.9);
+    filter:drop-shadow(9px 9px  4px #2e2b2b);
+  /*   filter:opacity(0.9); */
+    filter:saturate(-90%);}
+
+    .dalto img:hover{height:190px ;
+        width: 190px;
+        position: absolute;
+    border-radius: 130px;
+    margin-top: 170px;
+    margin-left: 40px;
+    display: inline-block;
+    object-fit: cover;
+    opacity: 0.5;}
+    .alejo img:hover{height:190px ;
+        width: 190px;
+        position:absolute ;
+    border-radius: 130px;
+    margin-left: 225px;
+    margin-top: 170px;
+    display: inline-block;
+    object-fit: cover;
+    opacity: 0.5;
+    }
+    .bob img:hover{height:190px ;
+        width: 190px;
+        margin-left: 520px;
+        position: absolute;
+    border-radius: 130px;
+    margin-top: 130px;
+    display: inline-block;
+    object-fit: cover;
+    opacity: 0.5;}
+
+    .alex img:hover{height:190px ;
+        width: 190px;
+        margin-left:670px;
+        margin-top: 120px;
+        position: absolute;
+    border-radius: 130px;
+    display: inline-block;
+    object-fit: cover;
+    opacity: 0.5;}
+
+    .humberto img:hover{height:190px ;
+        width: 190px;
+        margin-left:925px;
+        margin-top:100px;
+        position: absolute;
+    border-radius: 130px;
+    display: inline-block;
+    object-fit: cover;
+    opacity: 0.5;
+    }
+.cont{margin-top: 390px;
+ position: absolute;
+font-size: 19px;
+margin-left:560px ;}
+
+.cont::after{content:" Favorita"}
+
+.arduino{margin-top: 490px;}
+
+.fiona{margin-top: 490px;}
+
+#cubo{margin-left: 500px;
+margin-top: 10px;
+height: 40px;
+width: 40px;
+position: absolute;
+display: inline-block;
+color: #3b3b3b;}
+.act{
+    display: inline;
+    margin-left: 495px;
+    margin-top: 90px;
+    position: absolute;
+}
+.Electronica{top: 790px;
+    left: 540px;
+position: absolute;
+display: inline-block;}
+
+.caminar{top: 790px;
+    left: 170px;
+position: absolute;
+display: inline-block;}
